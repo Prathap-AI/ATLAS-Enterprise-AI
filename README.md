@@ -245,6 +245,9 @@ Because the browser uploads directly to S3, add the actual frontend origin to yo
 
 For cloud deployment, replace or supplement these with your exact deployed HTTPS origin. Keep the S3 bucket private.
 
+<img width="1870" height="845" alt="image" src="https://github.com/user-attachments/assets/ab15cec1-bc85-44b1-a020-0c5dc42d25c6" />
+
+
 ## Run with Docker
 
 Build the image:
